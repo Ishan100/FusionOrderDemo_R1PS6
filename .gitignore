@@ -1,0 +1,12 @@
+# Project Files
+#*.jpr
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Binary Folders
+*.class
+classes/
+SCA-INF/classes
